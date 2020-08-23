@@ -4,7 +4,7 @@ Hello! I am Alex, a high-school student from Silicon Valley and Controls Lead fo
 ## My Links
 - [Website and Blog](https://alexbeaver.com])
 - [Portfolio](https://portfolio.alexbeaver.com)
-- [GitLab](https://gitslab.com/abeaver) *(used for long-term or non-open-source projects)*
+- [GitLab](https://gitlab.com/abeaver) *(used for long-term or non-open-source projects)*
 - [LinkedIn](https://www.linkedin.com/in/alex-beaver/)
 - [Twitter](https://twitter.com/alexcbeaver)
 
