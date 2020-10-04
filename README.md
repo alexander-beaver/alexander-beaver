@@ -1,6 +1,8 @@
 # About Me
 Hello! I am Alex, a high-school student from Silicon Valley and Controls Lead for FRC Team 100.
 
+I enjoy integrating security and privacy with beautiful applications.
+
 ## My Links
 - [Website and Blog](https://alexbeaver.com])
 - [Portfolio](https://portfolio.alexbeaver.com)
