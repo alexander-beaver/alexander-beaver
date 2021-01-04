@@ -4,11 +4,15 @@ Hello! I am Alex, a high-school student from Silicon Valley and Controls Lead fo
 I enjoy integrating security and privacy with beautiful applications.
 
 ## My Links
-- [Website and Blog](https://alexbeaver.com])
+- [Website and Blog](https://alexbeaver.com)
 - [Portfolio](https://portfolio.alexbeaver.com)
 - [GitLab](https://gitlab.com/abeaver) *(used for long-term or non-open-source projects)*
 - [LinkedIn](https://www.linkedin.com/in/alex-beaver/)
 - [Twitter](https://twitter.com/alexcbeaver)
+
+## Mi Sitio/Meu Site
+- [:es:](https://alexbeaver.co)
+- [:brazil:](https://alexbeaver.com.br)
 
 ## Connect with Me
 If you would like to reach out, there are a couple of ways:
