@@ -6,6 +6,7 @@ I enjoy integrating security and privacy with beautiful applications.
 ## My Links
 - [Website and Blog](https://alexbeaver.com)
 - [Portfolio](https://portfolio.alexbeaver.com)
+- [Resume](https://alexbeaver.com/s/resume.pdf)
 - [GitLab](https://gitlab.com/abeaver) *(used for long-term or non-open-source projects)*
 - [LinkedIn](https://www.linkedin.com/in/alex-beaver/)
 - [Twitter](https://twitter.com/alexcbeaver)
