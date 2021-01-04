@@ -11,8 +11,8 @@ I enjoy integrating security and privacy with beautiful applications.
 - [Twitter](https://twitter.com/alexcbeaver)
 
 ## Mi Sitio/Meu Site
-- [:es:](https://alexbeaver.co)
-- [:brazil:](https://alexbeaver.com.br)
+- [Español :es:](https://alexbeaver.co)
+- [Português :brazil:](https://alexbeaver.com.br)
 
 ## Connect with Me
 If you would like to reach out, there are a couple of ways:
