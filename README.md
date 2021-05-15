@@ -1,5 +1,5 @@
 # About Me
-Hello! I am Alex, a high-school student from Silicon Valley and Controls Lead for FRC Team 100.
+Hello! I am Alex, a Computing Security student at Rochester Institute of Technology.
 
 I enjoy integrating security and privacy with beautiful applications.
 
