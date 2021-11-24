@@ -1,8 +1,7 @@
 # About Me
 Hello! I am Alex, a Computing Security student at Rochester Institute of Technology.
 
-I enjoy integrating security and privacy with beautiful applications.
-
+Right now, I am learning about network security and especially encryption for wireless communication
 ## My Links
 - [Website and Blog](https://alexbeaver.com)
 - [Portfolio](https://portfolio.alexbeaver.com)
