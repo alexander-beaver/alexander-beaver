@@ -8,17 +8,15 @@ To learn more about me, I highly recommend that you take a look at some of my re
 
 ### [Omnivoz Derive](https://github.com/alexander-beaver/omnivoz_derive)
 
+[Presentation](https://www.alexbeaver.com/events/encryption-of-time-series-data)
+
 ## My Links
 - [Website and Blog](https://alexbeaver.com)
-- [Portfolio](https://portfolio.alexbeaver.com)
 - [Resume](https://static.alexbeaver.com/resume.pdf)
 - [GitLab](https://gitlab.com/abeaver) *(used for long-term or non-open-source projects)*
 - [LinkedIn](https://www.linkedin.com/in/alex-beaver/)
 - [Twitter](https://twitter.com/alexcbeaver)
 
-## Mi Sitio/Meu Site
-- [Español :es:](https://alexbeaver.co)
-- [Português :brazil:](https://alexbeaver.com.br)
 
 ## Connect with Me
 If you would like to reach out, there are a couple of ways:
