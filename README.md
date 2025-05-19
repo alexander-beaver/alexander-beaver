@@ -1,5 +1,4 @@
 # 💫 About Me:
-Computing Security Student in Rochester, New York<br><br>🔭 Focusing on Application Security, Trusted Computing, and Secure Networking<br>🌉 From San Francisco <br /><br />Current Application Security Engineer at Paramount Global
 
 
 ## 🌐 Socials:
